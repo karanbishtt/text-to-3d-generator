@@ -31,4 +31,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 Karan Singh Bisht  
-2nd Year B.Tech CSE, Amity University Rajasthan
+3rd Year B.Tech CSE, Amity University Rajasthan
